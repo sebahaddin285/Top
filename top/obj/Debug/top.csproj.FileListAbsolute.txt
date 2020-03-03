@@ -1,0 +1,10 @@
+C:\Users\sebah\source\repos\top\top\bin\Debug\top.exe.config
+C:\Users\sebah\source\repos\top\top\bin\Debug\top.exe
+C:\Users\sebah\source\repos\top\top\bin\Debug\top.pdb
+C:\Users\sebah\source\repos\top\top\obj\Debug\top.csprojAssemblyReference.cache
+C:\Users\sebah\source\repos\top\top\obj\Debug\top.Form1.resources
+C:\Users\sebah\source\repos\top\top\obj\Debug\top.Properties.Resources.resources
+C:\Users\sebah\source\repos\top\top\obj\Debug\top.csproj.GenerateResource.cache
+C:\Users\sebah\source\repos\top\top\obj\Debug\top.csproj.CoreCompileInputs.cache
+C:\Users\sebah\source\repos\top\top\obj\Debug\top.exe
+C:\Users\sebah\source\repos\top\top\obj\Debug\top.pdb
